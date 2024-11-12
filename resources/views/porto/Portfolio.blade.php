@@ -16,19 +16,19 @@
                 <div class="swiper-wrapper">
                     <!-- Slide 1 -->
                     <div class="swiper-slide">
-                        <img class="box-border object-cover w-full h-72 rounded-lg shadow-lg" src="./img/GoUP.png" alt="U17">
+                        <img class="box-border object-cover w-full h-72 rounded-lg shadow-lg" src="./img/PortHome.png" alt="U17">
                     </div>
                     <!-- Slide 2 -->
                     <div class="swiper-slide">
-                        <img class="box-border object-cover w-full h-72 rounded-lg shadow-lg" src="./img/GoLogin.png" alt="Foto Rifky Cahya Putra">
+                        <img class="box-border object-cover w-full h-72 rounded-lg shadow-lg" src="./img/PortAbout.png" alt="Foto Rifky Cahya Putra">
                     </div>
                     <!-- Slide 3 -->
                     <div class="swiper-slide">
-                        <img class="box-border object-cover w-full h-72 rounded-lg shadow-lg" src="./img/GoHome.png" alt="Foto Rifky Cahya Putra">
+                        <img class="box-border object-cover w-full h-72 rounded-lg shadow-lg" src="./img/PortPorto.png" alt="Foto Rifky Cahya Putra">
                     </div>
                     <!-- Slide 4 -->
                     <div class="swiper-slide">
-                        <img class="box-border object-cover w-full h-72 rounded-lg shadow-lg" src="./img/GoLokasi.png" alt="Foto Rifky Cahya Putra">
+                        <img class="box-border object-cover w-full h-72 rounded-lg shadow-lg" src="./img/PortDetail.png" alt="Foto Rifky Cahya Putra">
                     </div>
                 </div>
 
@@ -42,19 +42,19 @@
                 <div class="swiper-wrapper">
                     <!-- Thumbnail 1 -->
                     <div class="swiper-slide cursor-pointer">
-                        <img class="box-border object-cover w-24 h-16 rounded" src="./img/GoUP.png" alt="Thumbnail 1">
+                        <img class="box-border object-cover w-24 h-16 rounded" src="./img/PortHome.png" alt="Thumbnail 1">
                     </div>
                     <!-- Thumbnail 2 -->
                     <div class="swiper-slide cursor-pointer">
-                        <img class="box-border object-cover w-24 h-16 rounded" src="./img/GoLogin.png" alt="Thumbnail 2">
+                        <img class="box-border object-cover w-24 h-16 rounded" src="./img/PortAbout.png" alt="Thumbnail 2">
                     </div>
                     <!-- Thumbnail 3 -->
                     <div class="swiper-slide cursor-pointer">
-                        <img class="box-border object-cover w-24 h-16 rounded" src="./img/GoHome.png" alt="Thumbnail 3">
+                        <img class="box-border object-cover w-24 h-16 rounded" src="./img/PortPorto.png" alt="Thumbnail 3">
                     </div>
                     <!-- Thumbnail 4 -->
                     <div class="swiper-slide cursor-pointer">
-                        <img class="box-border object-cover w-24 h-16 rounded" src="./img/GoLokasi.png" alt="Thumbnail 4">
+                        <img class="box-border object-cover w-24 h-16 rounded" src="./img/PortDetail.png" alt="Thumbnail 4">
                     </div>
                 </div>
             </div>
@@ -73,7 +73,7 @@
             <span class="inline-flex items-center rounded-md bg-[#EEEEEE] px-2 mr-2 mb-2 py-1 text-sm font-semibold text-[#CB0001] ring-2 ring-inset ring-gray-500/10">CSS</span>
 
             <div class="flex flex-row items-center pb-12 space-x-2 mt-3">
-                <a href="" class="text-[#EEEEEE] bg-[#CB0001] rounded-full font-bold text-base px-8 py-1 hover:bg-[#EEEEEE] hover:text-[#CB0001]">
+                <a href="https://github.com/RifkyCahya1/Portofolio" class="text-[#EEEEEE] bg-[#CB0001] rounded-full font-bold text-base px-8 py-1 hover:bg-[#EEEEEE] hover:text-[#CB0001]">
                     See Github
                 </a>
             </div>
