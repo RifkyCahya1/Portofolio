@@ -16,9 +16,9 @@
 ],
     "env": {
         "APP_ENV": "production",
-        "APP_DEBUG": "false",
+        "APP_DEBUG": "true",
         "APP_URL": "https://web-porto-rifkycahya.vercel.app/",
-        "APP_KEY": "base64:MeC7KCP97285J+c+RfQLKEmMCJYMOFTKqF6ki5jsuhc=",
+        "APP_KEY": "base64:53koKMZGHsf2feJ8hh+t8YtVX5B1JEbskwIZciYtiB0=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
