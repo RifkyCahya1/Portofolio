@@ -15,6 +15,7 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
 
         <!-- Styles / Scripts -->
+        <link rel="stylesheet" href="{{ secure_asset('build/assets/app-Cixru3vd.css') }}">
         @vite('resources/css/app.css')
     </head>
     
