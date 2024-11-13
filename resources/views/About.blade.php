@@ -14,15 +14,18 @@
 
     <!-- #2 -->
     <div class="bg-white w-full rounded-t-[75px]">
-        <div class="container mx-auto pt-12 pb-24 px-8 flex flex-col md:flex-row items-center justify-around gap-8">
+        <div class="container mx-auto py-12 px-8 flex flex-col md:flex-row items-center justify-around gap-8">
 
             <img class="w-[250px] md:w-[350px] box-border rounded-full object-cover shadow-2xl transform transition-transform duration-300 hover:scale-105" src="./img/Foto.JPG" alt="Foto Rifky Cahya Putra">
 
             <article class="text-black leading-loose mb-3 md:w-1/2">
                 <h3 class="font-black text-4xl mb-2">About Me!</h3>
-                <p class="font-medium text-lg mb-6 text-balance">Nama saya Rifky Cahya Putra, seorang Web Developer fresh graduate dari Telkom University Surabaya. Dengan semangat yang tinggi, saya berkomitmen untuk terus belajar dan mengembangkan keterampilan saya di bidang pengembangan web.</p>
-                <p class="font-medium text-lg mb-6 text-balance">Saya mahir dalam HTML, CSS, JavaScript, serta framework seperti Laravel, Tailwind CSS, dan Bootstrap. Selain itu, saya berpengalaman dalam desain UI/UX menggunakan Figma, memastikan setiap proyek tidak hanya fungsional, tetapi juga menarik secara visual.</p>
-                <p class="font-medium text-lg mb-2 text-balance">Saat ini, saya sedang mempelajari React dan React Native, dan saya sangat antusias untuk menambah keahlian ini ke dalam portofolio saya. Dengan dedikasi yang tinggi, saya berharap dapat memberikan kontribusi nyata dalam industri teknologi.</p>
+                <p class="font-medium text-lg mb-3 text-balance">Nama saya Rifky Cahya Putra, seorang Web Developer fresh graduate dari Telkom University Surabaya. Dengan semangat yang tinggi, saya berkomitmen untuk terus belajar dan mengembangkan keterampilan saya di bidang pengembangan web.</p>
+                <p class="font-medium text-lg mb-3 text-balance">Saya mahir dalam HTML, CSS, JavaScript, serta framework seperti Laravel, Tailwind CSS, dan Bootstrap. Selain itu, saya berpengalaman dalam desain UI/UX menggunakan Figma, memastikan setiap proyek tidak hanya fungsional, tetapi juga menarik secara visual.</p>
+                <p class="font-medium text-lg mb-3 text-balance">Saat ini, saya sedang mempelajari React dan React Native, dan saya sangat antusias untuk menambah keahlian ini ke dalam portofolio saya. Dengan dedikasi yang tinggi, saya berharap dapat memberikan kontribusi nyata dalam industri teknologi.</p>
+                <a href="/pdf/CV.pdf" download class="text-[#EEEEEE] bg-[#CB0001] rounded-full font-bold text-base px-8 py-2 hover:bg-[#EEEEEE] hover:text-[#CB0001]">
+                    Download CV
+                </a>
             </article>
 
         </div>

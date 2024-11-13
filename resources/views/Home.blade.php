@@ -84,7 +84,7 @@
 
     <!-- 3  -->
     <div class="bg-[#F19E4A] w-full rounded-t-[75px]">
-      <div class="container mx-auto pt-12 pb-24 px-8 flex flex-col md:flex-row items-center justify-around gap-8">
+      <div class="container mx-auto py-12 px-8 flex flex-col md:flex-row items-center justify-around gap-8">
 
         <div class="card bg-[#FFFFFF] w-full md:w-[270px] h-[150] shadow-xl rounded-xl flex flex-col mt-10 md:mt-20 ease-in-out duration-300 hover:scale-105 hover:-translate-y-5">
           <div class="card-body flex flex-col justify-center text-[#052451] text-pretty p-5">

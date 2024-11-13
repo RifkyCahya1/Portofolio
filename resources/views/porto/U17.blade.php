@@ -7,7 +7,7 @@
         <a href="javascript:void(0);" onclick="history.back()" class="text-[#CB0001] bg-[#EEEEEE] rounded-full font-bold text-base px-8 py-1 hover:bg-[#CB0001] hover:text-[#FFFFFF]">Back</a>
         <h1 class="text-3xl font-bold text-black mt-10 mb-5 text-balance">Website Piala Dunia U17 Host City Surabaya </h1>
     </div>
-    <div class="container mx-auto pb-12 px-8 flex flex-col md:flex-row items-start justify-between gap-14">
+    <div class="container mx-auto py-12 px-8 flex flex-col md:flex-row items-start justify-between gap-14">
 
         <!-- Bagian Slider (menggunakan 50% lebar layar di layar medium ke atas) -->
         <div class="w-full md:w-1/2">
@@ -95,7 +95,7 @@
     <div class="container mx-auto pt-12 px-10">
       <h1 class="text-2xl font-black text-white mt-10 mb-5 text-balance">Select Other</h1>
     </div>
-    <div class="container mx-auto pb-24 px-8">
+    <div class="container mx-auto py-12 px-8">
       <div class="swiper mySwiper">
         <div class="swiper-wrapper ">
           <!-- Slide 1 -->

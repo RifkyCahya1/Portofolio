@@ -14,7 +14,7 @@
 
     <!-- #2 -->
     <div class="bg-[#0B1119] w-full rounded-t-[75px]">
-        <div class="container mx-auto pt-12 pb-24 px-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        <div class="container mx-auto py-12 px-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
 
             <!-- Row 1 -->
             <a href="U17" class="bg-[#141D2A] rounded-lg shadow-lg text-white p-6 sm:col-span-1 lg:row-start-1 lg:row-end-4">
