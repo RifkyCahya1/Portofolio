@@ -16,6 +16,7 @@
 
         <!-- Styles / Scripts -->
         <link rel="stylesheet" href="{{ secure_asset('build/assets/app-Cixru3vd.css') }}">
+
         @vite('resources/css/app.css')
     </head>
     
