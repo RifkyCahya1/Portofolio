@@ -15,7 +15,7 @@
       "APP_ENV": "production",
       "APP_DEBUG": "false",
       "APP_URL": "https://portofolio-rho-amber.vercel.app/",
-      "APP_KEY": "base64:JddXwAlMYagn19yODBg9U3UbJvjE7cPMhMoG/1/fvkQ=",
+      "APP_KEY": "base64:53koKMZGHsf2feJ8hh+t8YtVX5B1JEbskwIZciYtiB0=",
       "APP_CONFIG_CACHE": "/tmp/config.php",
       "APP_EVENTS_CACHE": "/tmp/events.php",
       "APP_PACKAGES_CACHE": "/tmp/packages.php",
