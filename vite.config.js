@@ -8,7 +8,11 @@ export default defineConfig({
             refresh: true,
         }),
     ],
+    base: '/', // Pastikan base URL menggunakan root path 
+    build: { 
+        manifest: true, // Menghasilkan manifest untuk Laravel Vite plugin 
+    }, 
     server: { 
-        https: true, 
+        https: true, // Menambahkan server HTTPS untuk Vite 
     },
 });
