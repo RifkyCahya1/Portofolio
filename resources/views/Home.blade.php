@@ -60,7 +60,7 @@
           </div>
 
           <div class="swiper-slide">
-            <a href="">
+            <a href="Dicoding-1">
               <div class="max-w-xs rounded-lg p-2">
                 <img class="w-full h-52 object-cover transform transition-transform duration-300 hover:scale-105 rounded-lg" src="./img/Dicoding.jpeg" alt="Portofolio">
                 <h2 class="text-lg font-bold text-white mt-3 text-pretty">Pelatihan Dicoding Pemrograman web</h2>

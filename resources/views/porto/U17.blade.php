@@ -4,7 +4,7 @@
 
 <div class="bg-white w-full">
     <div class="container mx-auto pt-12 px-8">
-        <a href="" class="text-[#CB0001] bg-[#EEEEEE] rounded-full font-bold text-base px-8 py-1 hover:bg-[#CB0001] hover:text-[#FFFFFF]">Back</a>
+        <a href="javascript:void(0);" onclick="history.back()" class="text-[#CB0001] bg-[#EEEEEE] rounded-full font-bold text-base px-8 py-1 hover:bg-[#CB0001] hover:text-[#FFFFFF]">Back</a>
         <h1 class="text-3xl font-bold text-black mt-10 mb-5 text-balance">Website Piala Dunia U17 Host City Surabaya </h1>
     </div>
     <div class="container mx-auto pb-12 px-8 flex flex-col md:flex-row items-start justify-between gap-14">
@@ -136,7 +136,7 @@
           </div>
 
           <div class="swiper-slide">
-            <a href="">
+            <a href="Dicoding-1">
               <div class="max-w-xs rounded-lg p-2">
                 <img class="w-full h-52 object-cover transform transition-transform duration-300 hover:scale-105 rounded-lg" src="./img/Dicoding.jpeg" alt="Portofolio">
                 <h2 class="text-lg font-bold text-white mt-3 text-pretty">Pelatihan Dicoding Pemrograman web</h2>

@@ -5,7 +5,7 @@
 <div class="bg-white w-full">
     <div class="container mx-auto pt-12 px-8">
         <a href="javascript:void(0);" onclick="history.back()" class="text-[#CB0001] bg-[#EEEEEE] rounded-full font-bold text-base px-8 py-1 hover:bg-[#CB0001] hover:text-[#FFFFFF]">Back</a>
-        <h1 class="text-3xl font-bold text-black mt-10 mb-5 text-balance">Website Istopila Studio Foto</h1>
+        <h1 class="text-3xl font-bold text-black mt-10 mb-5 text-balance">Course Dicoding Pemrograman Web</h1>
     </div>
     <div class="container mx-auto pb-12 px-8 flex flex-col md:flex-row items-start justify-between gap-14">
 
@@ -16,19 +16,19 @@
                 <div class="swiper-wrapper">
                     <!-- Slide 1 -->
                     <div class="swiper-slide">
-                        <img class="box-border object-cover w-full rounded-lg shadow-lg" src="./img/Istopila.png" alt="U17">
+                        <img class="box-border object-cover w-full h-72 rounded-lg shadow-lg" src="./img/PortHome.png" alt="U17">
                     </div>
                     <!-- Slide 2 -->
                     <div class="swiper-slide">
-                        <img class="box-border object-cover w-full rounded-lg shadow-lg" src="./img/IstopilaAdm.png" alt="Foto Rifky Cahya Putra">
+                        <img class="box-border object-cover w-full h-72 rounded-lg shadow-lg" src="./img/PortAbout.png" alt="Foto Rifky Cahya Putra">
                     </div>
                     <!-- Slide 3 -->
                     <div class="swiper-slide">
-                        <img class="box-border object-cover w-full rounded-lg shadow-lg" src="./img/IstopilaPay.png" alt="Foto Rifky Cahya Putra">
+                        <img class="box-border object-cover w-full h-72 rounded-lg shadow-lg" src="./img/PortPorto.png" alt="Foto Rifky Cahya Putra">
                     </div>
                     <!-- Slide 4 -->
                     <div class="swiper-slide">
-                        <img class="box-border object-cover w-full rounded-lg shadow-lg" src="./img/IstopilaOrder.png" alt="Foto Rifky Cahya Putra">
+                        <img class="box-border object-cover w-full h-72 rounded-lg shadow-lg" src="./img/PortDetail.png" alt="Foto Rifky Cahya Putra">
                     </div>
                 </div>
 
@@ -42,19 +42,19 @@
                 <div class="swiper-wrapper">
                     <!-- Thumbnail 1 -->
                     <div class="swiper-slide cursor-pointer">
-                        <img class="box-border object-cover w-24 h-16 rounded" src="./img/Istopila.png" alt="Thumbnail 1">
+                        <img class="box-border object-cover w-24 h-16 rounded" src="./img/PortHome.png" alt="Thumbnail 1">
                     </div>
                     <!-- Thumbnail 2 -->
                     <div class="swiper-slide cursor-pointer">
-                        <img class="box-border object-cover w-24 h-16 rounded" src="./img/IstopilaAdm.png" alt="Thumbnail 2">
+                        <img class="box-border object-cover w-24 h-16 rounded" src="./img/PortAbout.png" alt="Thumbnail 2">
                     </div>
                     <!-- Thumbnail 3 -->
                     <div class="swiper-slide cursor-pointer">
-                        <img class="box-border object-cover w-24 h-16 rounded" src="./img/IstopilaPay.png" alt="Thumbnail 3">
+                        <img class="box-border object-cover w-24 h-16 rounded" src="./img/PortPorto.png" alt="Thumbnail 3">
                     </div>
                     <!-- Thumbnail 4 -->
                     <div class="swiper-slide cursor-pointer">
-                        <img class="box-border object-cover w-24 h-16 rounded" src="./img/IstopilaOrder.png" alt="Thumbnail 4">
+                        <img class="box-border object-cover w-24 h-16 rounded" src="./img/PortDetail.png" alt="Thumbnail 4">
                     </div>
                 </div>
             </div>
@@ -63,27 +63,25 @@
         <!-- Bagian Penjelasan (menggunakan 50% lebar layar di layar medium ke atas) -->
         <div class="w-full md:w-1/2">
             <div class="rounded-md border-2 border-[#C8C8C8] p-2 mb-3">
-                <p class="font-medium text-[16px] text-[#575757] pl-3">Date : 5 May 2024 - 29 August 2024 </p>
+                <p class="font-medium text-[16px] text-[#575757] pl-3">Date : 20 October 2024 - 21 October 2024 </p>
             </div>
 
-            <span class="inline-flex items-center rounded-md bg-[#EEEEEE] px-2 mr-2 mb-2 py-1 text-sm font-semibold text-[#CB0001] ring-2 ring-inset ring-gray-500/10">Fullstack Developer</span>
-            <span class="inline-flex items-center rounded-md bg-[#EEEEEE] px-2 mr-2 mb-2 py-1 text-sm font-semibold text-[#CB0001] ring-2 ring-inset ring-gray-500/10">Extreme Programming Methode</span>
-            <span class="inline-flex items-center rounded-md bg-[#EEEEEE] px-2 mr-2 mb-2 py-1 text-sm font-semibold text-[#CB0001] ring-2 ring-inset ring-gray-500/10">Blackbox Testing</span>
-            <span class="inline-flex items-center rounded-md bg-[#EEEEEE] px-2 mr-2 mb-2 py-1 text-sm font-semibold text-[#CB0001] ring-2 ring-inset ring-gray-500/10">Usability Testing</span>
+            
             <span class="inline-flex items-center rounded-md bg-[#EEEEEE] px-2 mr-2 mb-2 py-1 text-sm font-semibold text-[#CB0001] ring-2 ring-inset ring-gray-500/10">HTML</span>
             <span class="inline-flex items-center rounded-md bg-[#EEEEEE] px-2 mr-2 mb-2 py-1 text-sm font-semibold text-[#CB0001] ring-2 ring-inset ring-gray-500/10">CSS</span>
-            <span class="inline-flex items-center rounded-md bg-[#EEEEEE] px-2 mr-2 mb-2 py-1 text-sm font-semibold text-[#CB0001] ring-2 ring-inset ring-gray-500/10">Javascript</span>
-            <span class="inline-flex items-center rounded-md bg-[#EEEEEE] px-2 mr-2 mb-2 py-1 text-sm font-semibold text-[#CB0001] ring-2 ring-inset ring-gray-500/10">Bootstrap</span>
-            <span class="inline-flex items-center rounded-md bg-[#EEEEEE] px-2 mr-2 mb-2 py-1 text-sm font-semibold text-[#CB0001] ring-2 ring-inset ring-gray-500/10">Laravel</span>
-            <span class="inline-flex items-center rounded-md bg-[#EEEEEE] px-2 mr-2 mb-2 py-1 text-sm font-semibold text-[#CB0001] ring-2 ring-inset ring-gray-500/10">PHP</span>
-            <span class="inline-flex items-center rounded-md bg-[#EEEEEE] px-2 mr-2 mb-2 py-1 text-sm font-semibold text-[#CB0001] ring-2 ring-inset ring-gray-500/10">MySql</span>
-            <span class="inline-flex items-center rounded-md bg-[#EEEEEE] px-2 mr-2 mb-2 py-1 text-sm font-semibold text-[#CB0001] ring-2 ring-inset ring-gray-500/10">Geolocation</span>
-            <span class="inline-flex items-center rounded-md bg-[#EEEEEE] px-2 mr-2 mb-2 py-1 text-sm font-semibold text-[#CB0001] ring-2 ring-inset ring-gray-500/10">Leaflet.js</span>
-            <span class="inline-flex items-center rounded-md bg-[#EEEEEE] px-2 mr-2 mb-2 py-1 text-sm font-semibold text-[#CB0001] ring-2 ring-inset ring-gray-500/10">Payment Gateway</span>
-            <span class="inline-flex items-center rounded-md bg-[#EEEEEE] px-2 mr-2 mb-2 py-1 text-sm font-semibold text-[#CB0001] ring-2 ring-inset ring-gray-500/10">Midtrans</span>
+            <span class="inline-flex items-center rounded-md bg-[#EEEEEE] px-2 mr-2 mb-2 py-1 text-sm font-semibold text-[#CB0001] ring-2 ring-inset ring-gray-500/10">Flexbox</span>
 
             <div class="flex flex-row items-center pb-12 space-x-2 mt-3">
-                <a href="https://github.com/RifkyCahya1/TA-Istopila-Laravel-11" class="text-[#EEEEEE] bg-[#CB0001] rounded-full font-bold text-base px-8 py-1 hover:bg-[#EEEEEE] hover:text-[#CB0001]">
+                <button id="open-modal" class="text-[#EEEEEE] bg-[#CB0001] rounded-full font-bold text-base px-8 py-1 hover:bg-[#EEEEEE] hover:text-[#CB0001]">
+                    See Certificate
+                </button>
+                <!-- Modal -->
+                <div id="modal" class="fixed inset-0 z-40 flex items-center justify-center bg-black bg-opacity-50 hidden">
+                    <div class="bg-white rounded-lg overflow-hidden shadow-xl max-w-3xl mx-auto"> <img src="./img/U17Sertif.jpg" alt="Certificate" class="w-full h-auto">
+                        <div class="p-4 flex justify-end"> <button id="close-modal" class="bg-red-500 text-white px-4 py-2 rounded-lg hover:bg-red-700">Close</button> </div>
+                    </div>
+                </div>
+                <a href="https://github.com/RifkyCahya1/Portofolio" class="hover:text-[#EEEEEE] hover:bg-[#CB0001] rounded-full font-bold text-base px-8 py-1 bg-[#EEEEEE] text-[#CB0001]">
                     See Github
                 </a>
             </div>

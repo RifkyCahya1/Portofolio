@@ -24,14 +24,14 @@
                 </div>
             </a>
 
-            <a href="" class="bg-[#23344A] rounded-lg shadow-lg text-white p-6 sm:col-span-1 lg:row-start-1 lg:row-end-2">
+            <a href="Istopila" class="bg-[#23344A] rounded-lg shadow-lg text-white p-6 sm:col-span-1 lg:row-start-1 lg:row-end-2">
                 <h2 class="text-2xl font-black mb-2">Website Istopila Foto Studio</h2>
                 <div class="flex justify-center items-center mt-2">
                     <img class="w-full object-cover shadow-xl rounded-lg" src="./img/Istopila.png" alt="Portofolio">
                 </div>
             </a>
 
-            <a href="" class="bg-[#141D2A] rounded-lg shadow-lg text-white p-6 sm:col-span-1 lg:row-start-1 lg:row-end-4">
+            <a href="GoTrans" class="bg-[#141D2A] rounded-lg shadow-lg text-white p-6 sm:col-span-1 lg:row-start-1 lg:row-end-4">
                 <h2 class="text-2xl font-black mb-5">UI/UX Go Trans</h2>
                 <div class="flex justify-center items-center">
                     <img class="w-full object-cover shadow-xl rounded-lg" src="./img/GoTrans.png" alt="Portofolio">
@@ -39,24 +39,24 @@
             </a>
 
             <!-- Row 2 -->
-            <a href="" class="bg-[#23344A] rounded-lg shadow-lg text-white p-6 sm:col-span-1 lg:row-start-4 lg:row-end-6">
+            <a href="Portfolio" class="bg-[#23344A] rounded-lg shadow-lg text-white p-6 sm:col-span-1 lg:row-start-4 lg:row-end-6">
                 <h2 class="text-2xl font-black mb-2">Website Portofolio</h2>
                 <div class="flex justify-center items-center">
                     <img class="w-full object-cover shadow-xl rounded-lg" src="./img/Porto.png" alt="Portofolio">
                 </div>
             </a>
 
-            <a href="" class="bg-[#141D2A] rounded-lg shadow-lg text-white p-6 sm:col-span-1 lg:row-start-2 lg:row-end-6">
+            <a href="Dicoding-1" class="bg-[#141D2A] rounded-lg shadow-lg text-white p-6 sm:col-span-1 lg:row-start-2 lg:row-end-6">
                 <h2 class="text-2xl font-black mb-2">Pelatihan Dicoding "Belajar Dasar Pemrograman Web"</h2>
                 <div class="flex justify-center items-center">
                     <img class="w-full object-cover shadow-xl rounded-lg" src="./img/Dicoding.png" alt="Portofolio">
                 </div>
             </a>
 
-            <a href="" class="bg-[#23344A] rounded-lg shadow-lg text-white p-6 sm:col-span-1 lg:row-start-4 lg:row-end-6">
+            <!-- <a href="" class="bg-[#23344A] rounded-lg shadow-lg text-white p-6 sm:col-span-1 lg:row-start-4 lg:row-end-6">
                 <h2 class="text-2xl font-black mb-2">Event Title 6</h2>
                 <p class="text-gray-700">Description of the event. This is a brief summary of what the event is about.</p>
-            </a>
+            </a> -->
         </div>
     </div>
 

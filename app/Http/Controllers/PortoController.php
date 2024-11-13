@@ -21,4 +21,8 @@ class PortoController extends Controller
     public function Portfolio(){
         return view('porto.Portfolio');
     }
+
+    public function Dicoding(){
+        return view('porto.Dicoding1');
+    }
 }
